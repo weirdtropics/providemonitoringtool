@@ -10,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installing
 
 First at all you need JDK installed .
-Next download application [build.zip](https://drive.google.com/open?id=1m3qaIirXMAihYkDdpcgrb___KBmmRy_D)
+Next download application [build.zip](https://drive.google.com/open?id=1IEfgTCPWByWID-TyyYTjI8C-hEDwjUfw)
 Extract and run: run-monitoring.sh :
 
 
@@ -35,7 +35,7 @@ App is connected to PostgreSQL database hosted on Heroku platform.
 
 Database credentials are harcoded as environment variables in run-monitoring.sh launch script
 
-To run from source code open(sources.zip) or [download source code](https://drive.google.com/open?id=1r2EURq4_dPk5nYLjoWlYi70LIHa9he0K)
+To run from source code open(sources.zip) or [download source code](https://drive.google.com/open?id=1HisVptiww-8yzX7Ile2Xd5QONEKZfUi4)
 ```
 sh ./build-and-run.sh
 
