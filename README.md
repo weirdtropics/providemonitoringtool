@@ -34,7 +34,7 @@ App is connected to PostgreSQL database hosted on Heroku platform.
 
 Database credentials are harcoded as environment variables in run-monitoring.sh launch script
 
-To run from source code open(source.zip) or [download source code]()
+To run from source code open(sources.zip) or [download source code](https://drive.google.com/open?id=1r2EURq4_dPk5nYLjoWlYi70LIHa9he0K)
 ```
 sh ./build-and-run.sh
 
