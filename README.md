@@ -10,12 +10,12 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installing
 
 First at all you need JDK installed .
-Next download application [ZIP file](https://drive.google.com/open?id=1m3qaIirXMAihYkDdpcgrb___KBmmRy_D)
+Next download application [build.zip](https://drive.google.com/open?id=1m3qaIirXMAihYkDdpcgrb___KBmmRy_D)
 Extract and run: run-monitoring.sh :
 
 
 ```
-unzip distr.zip
+unzip build.zip
 sh ./run-monitoring.sh
 ```
 After that you can open app on your local server(localhost:8080) or [webserver](https://providemonitoringtool.herokuapp.com) 
