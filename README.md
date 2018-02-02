@@ -9,7 +9,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing
 
-First at all you need JDK installed . Next download application [ZIP file](https://drive.google.com/open?id=1m3qaIirXMAihYkDdpcgrb___KBmmRy_D);
+First at all you need JDK installed .
+Next download application [ZIP file](https://drive.google.com/open?id=1m3qaIirXMAihYkDdpcgrb___KBmmRy_D)
 Extract and run: run-monitoring.sh :
 
 
